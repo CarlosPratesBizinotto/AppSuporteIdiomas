@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AppIdiomas</string>
-    <string name="app_name">Olá mundo Teste</string>
+    <string name="hello">Olá mundo Teste</string>
 </resources>
